@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Akhil
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning React - Redux - Typescript
+- 🌱 Full Stack Developer - MERN Stack
 - 💞️ I’m looking to collaborate on Web Development Projects | Realtime
 - 📫 How to reach me akhilakash26@gmail.com | 8072711781
+- Technical Skills | React Js, JavaScript, TypeScript, Node JS , Express, Mongo DB , Firebase , AWS , HTML, CSS , Bootstrap
 
 <!---
 Ak-SK/Ak-SK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
